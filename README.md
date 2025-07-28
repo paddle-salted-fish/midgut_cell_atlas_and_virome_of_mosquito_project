@@ -11,3 +11,5 @@ Codes for midgut cell atlas and virome of mosquito project.
 ## Virome analysis process
 - **Abundance generation/** The generation of viral abundance matrix and pseudo-bulk virome analysis.
 - **Others** The analysis of single-cell virome.
+## Workflow
+![Workflow](SFigure3.png)
